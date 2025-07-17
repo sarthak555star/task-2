@@ -1,4 +1,4 @@
-mall dataset was used to perform task.spyder console was taken to account
+mall dataset was used to perform task.
 
 OUTPUT:(images of graphs are attached to the file as images)
 Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]
